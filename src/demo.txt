@@ -1,0 +1,15 @@
+observable
+observer
+
+onNext, onComplete, onError
+
+subject types
+
+await
+
+filter
+fold
+reduce
+
+combine - state management
+
